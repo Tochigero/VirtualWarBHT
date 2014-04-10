@@ -7,5 +7,6 @@ Récuperer le repository
 =======================
 
 Dans Eclipse :
-  File > Import > Git > Project from git
+>File > Import > Git > Project from git
+
 Puis donner l'url du repository.
